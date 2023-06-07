@@ -22,7 +22,8 @@ desc TEXT,
 link varchar 255 
 
 Access H2 console = ipaddress:port/h2-console
-JDBC URL - jdbc:h2:mem:rss-reader-datasource
+<br />
+JDBC URL = jdbc:h2:mem:rss-reader-datasource
 
 ## Application Layers
 1. Data Access Layer(Feed Repository) - Stores and retrieves data from the database
