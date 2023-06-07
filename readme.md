@@ -21,6 +21,9 @@ pub_date timestamp 6,
 desc TEXT, 
 link varchar 255 
 
+Access H2 console = ipaddress:port/h2-console
+JDBC URL - jdbc:h2:mem:rss-reader-datasource
+
 ## Application Layers
 1. Data Access Layer(Feed Repository) - Stores and retrieves data from the database
 2. Service Layer (FeedService, FeedPollService) - Retrieves the data from Rss website and inserts it into the database, as well as providing an additional layer of abstraction for adding business logic.
