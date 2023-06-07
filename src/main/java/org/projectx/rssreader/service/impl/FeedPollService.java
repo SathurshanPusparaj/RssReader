@@ -32,7 +32,7 @@ public class FeedPollService {
         this.restTemplate = restTemplate;
     }
 
-    @Scheduled(fixedDelay = 5000)
+    @Scheduled(fixedDelay = 300000)
     public void play() {
         try {
             String data = pollFeed();
