@@ -1,0 +1,59 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>World news | The Guardian</title>
+        <link>https://www.theguardian.com/world</link>
+        <description>Latest World news news, comment and analysis from the Guardian, the world's leading liberal voice</description>
+        <language>en-gb</language>
+        <copyright>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2023</copyright>
+        <pubDate>Wed, 07 Jun 2023 05:54:07 GMT</pubDate>
+        <dc:date>2023-06-07T05:54:07Z</dc:date>
+        <dc:language>en-gb</dc:language>
+        <dc:rights>Guardian News and Media Limited or its affiliated companies. All rights reserved. 2023</dc:rights>
+        <image>
+            <title>The Guardian</title>
+            <url>https://assets.guim.co.uk/images/guardian-logo-rss.c45beb1bafa34b347ac333af2e6fe23f.png</url>
+            <link>https://www.theguardian.com</link>
+        </image>
+        <item>
+            <title>Sudan officials fear for historical artefacts threatened by fighting</title>
+            <link>https://www.theguardian.com/world/2023/jun/05/sudan-officials-fear-for-historical-artefacts-threatened-by-fighting</link>
+            <description><p>Warring factions urged to preserve heritage after video clip appears to show fighters raiding Khartoum museum</p><p>Heritage officials in Sudan have pleaded with warring factions to preserve tens of thousands of historical artefacts threatened by fighting in the capital, Khartoum, that is <a href="https://www.theguardian.com/world/2023/apr/27/sudan-conflict-why-is-there-fighting-what-is-at-stake">in its eighth week</a>.</p><p>A video clip circulating on social media on Friday appeared to show fighters from the Rapid Support Forces entering the bioarchaeology lab of the National Museum in Khartoum and opening storage containers containing mummies and other remains.</p> <a href="https://www.theguardian.com/world/2023/jun/05/sudan-officials-fear-for-historical-artefacts-threatened-by-fighting">Continue reading...</a></description>
+            <category domain="https://www.theguardian.com/world/sudan">Sudan</category>
+            <category domain="https://www.theguardian.com/world/africa">Africa</category>
+            <category domain="https://www.theguardian.com/culture/museums">Museums</category>
+            <category domain="https://www.theguardian.com/culture/heritage">Heritage</category>
+            <category domain="https://www.theguardian.com/science/archaeology">Archaeology</category>
+            <category domain="https://www.theguardian.com/world/middleeast">Middle East and north Africa</category>
+            <category domain="https://www.theguardian.com/world/world">World news</category>
+            <category domain="https://www.theguardian.com/culture/culture">Culture</category>
+            <pubDate>Mon, 05 Jun 2023 09:08:18 GMT</pubDate>
+            <guid>https://www.theguardian.com/world/2023/jun/05/sudan-officials-fear-for-historical-artefacts-threatened-by-fighting</guid>
+            <media:content width="140" url="https://i.guim.co.uk/img/media/c0a474c9ded198629f88448645db77846db37347/0_228_3951_2371/master/3951.jpg?width=140&quality=85&auto=format&fit=max&s=c60d5bcd1a5105273b29af60fb5f2a9a">
+                <media:credit scheme="urn:ebu">Photograph: AFP/Getty Images</media:credit>
+            </media:content>
+            <media:content width="460" url="https://i.guim.co.uk/img/media/c0a474c9ded198629f88448645db77846db37347/0_228_3951_2371/master/3951.jpg?width=460&quality=85&auto=format&fit=max&s=b05177065ab06ad6c5451f69f8e8b1d9">
+                <media:credit scheme="urn:ebu">Photograph: AFP/Getty Images</media:credit>
+            </media:content>
+            <dc:creator>Zeinab Mohammed Salih in Khartoum and Jason Burke</dc:creator>
+            <dc:date>2023-06-05T09:08:18Z</dc:date>
+        </item>
+        <item>
+            <title>Sudan fighting escalates after breakdown in ceasefire talks</title>
+            <link>https://www.theguardian.com/world/2023/jun/05/sudan-fighting-escalates-after-breakdown-in-ceasefire-talks</link>
+            <description><p>The latest shaky truce between country’s army and RSF paramilitary came to an end on Saturday evening and has not been extended</p><p>Fighting has intensified in several areas of Khartoum after a ceasefire deal expired, residents of Sudan’s capital reported, as activists said a new outburst of violence in North Darfur state had left at least 40 people dead.</p><p>The ceasefire between Sudan’s army and the paramilitary Rapid Support Forces (RSF) began on 22 May and expired on Saturday evening.</p> <a href="https://www.theguardian.com/world/2023/jun/05/sudan-fighting-escalates-after-breakdown-in-ceasefire-talks">Continue reading...</a></description>
+            <category domain="https://www.theguardian.com/world/sudan">Sudan</category>
+            <category domain="https://www.theguardian.com/world/africa">Africa</category>
+            <category domain="https://www.theguardian.com/world/middleeast">Middle East and north Africa</category>
+            <pubDate>Mon, 05 Jun 2023 00:58:18 GMT</pubDate>
+            <guid>https://www.theguardian.com/world/2023/jun/05/sudan-fighting-escalates-after-breakdown-in-ceasefire-talks</guid>
+            <media:content width="140" url="https://i.guim.co.uk/img/media/60f46357d7f1fcdcfddec84349f983ca223e1d7b/0_168_3662_2198/master/3662.jpg?width=140&quality=85&auto=format&fit=max&s=be55a212dfb60b4171aa975e4cb2dd4a">
+                <media:credit scheme="urn:ebu">Photograph: AFP/Getty Images</media:credit>
+            </media:content>
+            <media:content width="460" url="https://i.guim.co.uk/img/media/60f46357d7f1fcdcfddec84349f983ca223e1d7b/0_168_3662_2198/master/3662.jpg?width=460&quality=85&auto=format&fit=max&s=bd08f944e36624623dff95581f6a2ddf">
+                <media:credit scheme="urn:ebu">Photograph: AFP/Getty Images</media:credit>
+            </media:content>
+            <dc:creator>Reuters</dc:creator>
+            <dc:date>2023-06-05T00:58:18Z</dc:date>
+        </item>
+    </channel>
+</rss>
